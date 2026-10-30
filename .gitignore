@@ -1,0 +1,8 @@
+model/*.gguf
+model/*.part*
+*.partial
+__pycache__/
+.venv/
+cache/
+logs/
+data/sources/rag_index_manifest.json

@@ -1,0 +1,35 @@
+{
+  "name": "model AI law",
+  "version": "v1.0.0",
+  "repository": "trungkien2002/model-AI-law",
+  "filename": "model-ai-law-Q8_0.gguf",
+  "size": 4280403360,
+  "sha256": "28198f43d38a50f7c122ca53fef60e209c765b9a3d606fdadc77fbff42ff643b",
+  "parts": [
+    {
+      "name": "model-ai-law-Q8_0.gguf.part01",
+      "size": 1610612736,
+      "sha256": "41a9e3313f70c180f534b9fdb954adbeebc056b81bd6ef00e793f49ac5a023ac"
+    },
+    {
+      "name": "model-ai-law-Q8_0.gguf.part02",
+      "size": 1610612736,
+      "sha256": "46c09993d025d573bd52c06468bbc9e7727ca004f8f5f937cafe36871d555a01"
+    },
+    {
+      "name": "model-ai-law-Q8_0.gguf.part03",
+      "size": 1059177888,
+      "sha256": "1bc1a7f74978ff077ec0dfc78593931d67a2de3339d9e295bfa11d3425e09e3a"
+    }
+  ],
+  "base_model": "Qwen/Qwen3-4B-Instruct-2507",
+  "quantization": "Q8_0",
+  "context_length": 8192,
+  "training_run": "20261029-080822-887db3",
+  "training_stages": [
+    150,
+    310,
+    5278
+  ],
+  "rag_separate": true
+}

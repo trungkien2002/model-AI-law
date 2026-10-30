@@ -1,0 +1,133 @@
+{
+  "version": "BLLD18-2026-notes-v1",
+  "scope": "45/2019/QH14 consolidated18/VBHN-VPQH12/02/2026; not exhaustive current-law certification",
+  "review": "ChatGPT authored after reading registered official articles; not independent expert approval",
+  "articles": {
+    "13": {
+      "note": "Điều13 xác định quan hệ lao động theo nội dung việc làm có trả công/tiền lương và sự quản lý, điều hành, giám sát, không chỉ tên gọi. Không mặc định mọi thực tập là thử việc; phải hỏi tính chất thực tế và chương trình học khi chưa rõ.",
+      "source_sha256": "316b5fc8779cb81e75dd7d750d245322392662ca73359bbffd7615e2510bcfe0",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        7
+      ]
+    },
+    "24": {
+      "note": "Điều24 cho phép ghi thử việc trong HĐLĐ hoặc giao kết hợp đồng thử việc riêng. Chưa ký HĐLĐ không tự chứng minh không có thử việc. Không tự suy toàn bộ3tháng hưởng100% từ ngày đầu; cần tách thời gian thử việc hợp lệ, phần vượt hạn, công việc và thỏa thuận lương.",
+      "source_sha256": "c6c463faf563c7cdd28608f9b9b1d1190c405bd5b93053146ca5a50323e87e07",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        11
+      ]
+    },
+    "20": {
+      "note": "Khoản2Điều20: trong30ngày sau hết hạn mà vẫn làm, quyền/nghĩa vụ theo hợp đồng cũ; hết30ngày chưa ký mới thì chuyển thành không xác định thời hạn. Không nói chuyển hồi tố ngay từ ngày hết hạn. Phân biệt quy tắc ký thêm1lần và các ngoại lệ tại điểm c.",
+      "source_sha256": "84cfa0e9289eae8baf409087c5cd5214753ad1896c51ebd9db5fead283f7b585",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        9
+      ]
+    },
+    "25": {
+      "note": "Điều25 không có trần1tháng cho mọi công việc. Quản lý doanh nghiệp:180ngày; công việc cần cao đẳng trở lên:60ngày; trung cấp/công nhân kỹ thuật/nhân viên nghiệp vụ:30ngày; việc khác:06ngày làm việc. Thử1lần/công việc. Chưa rõ công việc/trình độ yêu cầu thì hỏi, không mặc định3tháng luôn hợp pháp hoặc luôn trái luật.",
+      "source_sha256": "33ce084107bbc5c875efa975483b324f8aa7a502dbda0d2fd02cf8ac1daf32d4",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        11
+      ]
+    },
+    "26": {
+      "note": "Điều26: thử việc vẫn có lương thỏa thuận, ít nhất85% mức lương công việc. Không được coi tên thử việc là căn cứ làm không lương; không tự thêm mốc ngày thứ4.",
+      "source_sha256": "41de4976b6c92997e2a5fe04ce9eaf3b04e1b5e35ea03a19b00c3bd82b4c8af5",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        11
+      ]
+    },
+    "36": {
+      "note": "Điểm c khoản2Điều36 quy định ít nhất03ngày làm việc cho CHÍNH trường hợp điểm b khoản1 (ốm đau/tai nạn điều trị đủ ngưỡng, chưa hồi phục), kể cả hợp đồng không xác định thời hạn. Không dùng45ngày máy móc cho nhánh này. Điểm d khoản1 là vắng mặt sau thời hạn Điều31; điểm đ là tuổi nghỉ hưu; điểm e là bỏ việc05ngày làm việc liên tục. Không tráo d/đ/e. Thời hạn đặc thù phải kiểm thêm nguồn nếu có.",
+      "source_sha256": "aaaa9c850fe2eaf7ed196c75020ae4b3565a7eb7c1ee420802910a676142caf8",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    "39": {
+      "note": "Điều39: đơn phương không đúng35/36/37 là trái luật. Khi user đã xác định không có bất kỳ căn cứ khoản1Điều36, hợp đồng còn hiệu lực, không phải thử việc/hết hạn/thỏa thuận/sa thải thì kết luận theo giả định, không hỏi lại căn cứ đã bị loại trừ.",
+      "source_sha256": "2bfb55f73b1b632573097afaed62f87a987b3d4e91b7c05426c3c2fede4d9368",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        17
+      ]
+    },
+    "41": {
+      "note": "Điều41 tách3nhánh: khoản1 nhận lại+tiền lương/bảo hiểm cho ngày không được làm+ít nhất02tháng lương và tiền do thiếu báo trước nếu vi phạm. Khoản2 là NLĐ không muốn tiếp tục: thêm trợ cấp thôi việc theo46 nếu đủ điều kiện. Khoản3 là NSDLĐ không muốn nhận lại và NLĐ đồng ý: mới có khoản bồi thường thỏa thuận thêm ít nhất02tháng. Không gộp khoản2với3. Lương kỳ trước đã đến hạn là khoản riêng, không gộp vào02tháng.",
+      "source_sha256": "5be85dd841dc2340d86e4cb51eb5ee5a5211b2605c45fc5d400e757c2872a0c5",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    "98": {
+      "note": "Điểm c khoản1Điều98: làm thêm ngày nghỉ lễ/tết tối thiểu300% đơn giá/lương thực trả theo công việc. Mệnh đề đối với người hưởng lương ngày chỉ gắn với phần CHƯA KỂ tiền lương ngày lễ/tết, không có nghĩa mức300% chỉ dành người hưởng lương ngày. Khoản2: đêm thêm30% lương công việc ngày thường. Khoản3: làm thêm đêm thêm20% lương làm BAN NGÀY của loại ngày tương ứng; không luôn20% đơn giá ngày thường. Với lương giờ làm thêm ĐÊM ngày nghỉ HẰNG TUẦN:200%+30%+20%×200%=270%, không phải250%; lương giờ đêm ngày lễ:300%+30%+20%×300%=390%, chưa kể tiền lương ngày lễ theo điều kiện luật. Không chốt số tiền khi chưa rõ ngày nghỉ lễ thực tế, giờ và đơn giá.",
+      "source_sha256": "bea99d1311f51922d0fb7a927b83930c496308e467b737fb87eda30de102e468",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        40
+      ]
+    },
+    "108": {
+      "note": "Khoản2Điều108 có nhánh làm thêm bảo vệ người/tài sản trong phòng ngừa/khắc phục thiên tai và ngoại lệ nguy cơ tính mạng/sức khỏe theo pháp luậtATVSLĐ. Không dùng điều kiện đồng ý/giới hạn giờ thông thường của107 để phủ định108; không kết luận bắt buộc bất chấp nguy hiểm.",
+      "source_sha256": "05aef24f493d8f61c2e38be50b83141bf5976d31194fc35e8c0ef2c1d655a992",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        43
+      ]
+    },
+    "122": {
+      "note": "Điểm d khoản4Điều122 cấm xử lý kỷ luật TRONG thời gian bảo vệ thai sản/nuôi con dưới12tháng. Không coi là miễn mọi kỷ luật vĩnh viễn. Khoản5 mới là mất khả năng nhận thức/điều khiển khi mắc bệnh. Không tự thêm hình thức kỷ luật giảm lương.",
+      "source_sha256": "ead08d0908d3140de0ec4accc197b953bdf6eb2751709af57c25e4edebd783e4",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    "123": {
+      "note": "Điều123 cho phép xem lại thời hiệu sau thời gian bảo vệ khoản4Điều122, kéo dài theo điều kiện nhưng không quá60ngày từ khi hết thời gian bảo vệ; không bảo đảm chắc còn thời hiệu trong mọi vụ.",
+      "source_sha256": "cb7a5e5bdd8a6f4346857bd2a35e521942bc6a49969e257937d9d3e87d5df2f1",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        49
+      ]
+    },
+    "141": {
+      "note": "Điều141 chỉ dẫn sang pháp luậtBHXH, không có bảng số ngày/tỷ lệ/tiền cụ thể. Nghỉ chăm con ốm không phải tự xin chấm dứt hợp đồng. Không dùng thông tin loại hợp đồng/báo trước để thay điều kiện tính chế độBHXH.",
+      "source_sha256": "03031593d8dc686146306afcfced951c6a3e57bd6090854fdd09f9d2c7b514c0",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        55
+      ]
+    },
+    "188": {
+      "note": "Điểm a khoản1Điều188: tranh chấp sa thải hoặc đơn phương chấm dứt không bắt buộc hòa giải trước. Tranh chấp tiền lương thông thường cần xem thủ tục hòa giải theo khoản1. Trọng tài theo189 cần kiểm điều kiện thỏa thuận, không ép mọi vụ đều hòa giải rồi mới kiện.",
+      "source_sha256": "c17ab7930d2f5ccf988dc4e9e148d5e610e6331ec56e80522b62b773f5ffa66c",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        72,
+        73,
+        74
+      ]
+    },
+    "190": {
+      "note": "Điều190: hòa giải06tháng, trọng tài09tháng, Tòa án01năm từ ngày phát hiện hành vi bị cho là xâm phạm quyền; không tráo các mốc. Khoản4có khoảng thời gian không tính nếu chứng minh đủ điều kiện.",
+      "source_sha256": "d069a2d06d3c6a73e6f60ce62d76c5ca73fd0c80a6bff4132da51ccabe6c5cc3",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+      "pdf_pages": [
+        74,
+        75
+      ]
+    }
+  }
+}

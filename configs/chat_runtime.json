@@ -1,0 +1,18 @@
+{
+  "version": "model-first-v3",
+  "generation_model": "model-ai-law:latest",
+  "review_model": "model-ai-law:latest",
+  "fallback_model": "model-ai-law:latest",
+  "generation_thinking": false,
+  "inference_num_ctx": 8192,
+  "comparison_model": "model-ai-law:latest",
+  "repair_attempts": 1,
+  "review_enabled": false,
+  "review_thinking": false,
+  "fallback_enabled": false,
+  "notes": "Release snapshot: same model-first inference pipeline. No private chat history included.",
+  "display_unverified_drafts": false,
+  "routing_strategy": "model_semantic_planning",
+  "general_chat_enabled": true,
+  "coverage_review_enabled": false
+}

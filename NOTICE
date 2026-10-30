@@ -1,0 +1,5 @@
+model AI law
+Fine-tuned from Qwen/Qwen3-4B-Instruct-2507.
+Qwen base model is distributed under Apache License 2.0.
+Modified model: NIC labor-law LoRA fine-tuning, 2026.
+Legal texts retain their source attribution and applicable legal status; the software license does not assert ownership of third-party legal publications.
