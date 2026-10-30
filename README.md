@@ -38,10 +38,8 @@ python rag_query.py "Điều 25 Bộ luật Lao động quy định thời gian 
 Kết quả gồm câu trả lời và link nguồn đã được ứng dụng chọn. `--json` xuất các trường cho tích hợp ứng dụng khác. Ví dụ Python có lịch sử hội thoại:
 
 ```python
-import sys
-sys.path.insert(0, "tool")
-from model_first_runtime import ChatService
-service = ChatService()
+from rag_query import create_service
+service = create_service()
 history = []
 result = service.answer("Tôi đang thử việc, lương phải đạt bao nhiêu?", history, log=False)
 print(result["answer"])
@@ -49,7 +47,7 @@ history.extend([{"role": "user", "content": "Tôi đang thử việc, lương ph
                 {"role": "assistant", "content": result["answer"]}])
 ```
 
-RAG lấy bản văn từ `data/sources`, tạo chỉ mục lexical trong bộ nhớ, dùng tokenizer đi kèm để tính ngân sách ngữ cảnh. Không dùng dịch vụ embedding trả phí. Không lưu hội thoại trong ví dụ mặc định. Máy cần Internet để tải model/thư viện lần đầu; sau khi cài đủ, inference và kho luật chạy cục bộ. Các link văn bản gốc cần Internet để mở.
+RAG lấy bản văn từ `data/sources`, tạo chỉ mục lexical trong bộ nhớ, dùng tokenizer đi kèm để tính ngân sách ngữ cảnh. Không dùng dịch vụ embedding trả phí. Không lưu hội thoại trong ví dụ mặc định. `create_service()` nạp model trước khi bắt đầu giới hạn thời gian trả lời; lần khởi động đầu có thể chậm, tối đa chờ 300 giây. Máy cần Internet để tải model/thư viện lần đầu; sau khi cài đủ, inference và kho luật chạy cục bộ. Các link văn bản gốc cần Internet để mở.
 
 ## 3. Nội dung repository
 
